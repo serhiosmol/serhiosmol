@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## A couple of words
+MIPT Radiotechnics and Computer Technologies sophomore student
 <!--
 **serhiosmol/serhiosmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
